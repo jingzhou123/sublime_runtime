@@ -5,6 +5,7 @@
 	"installed_packages":
 	[
 		"EditorConfig",
+		"LESS",
 		"Package Control",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint"
