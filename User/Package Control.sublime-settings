@@ -5,6 +5,7 @@
 	"installed_packages":
 	[
 		"EditorConfig",
+		"JavaScript Snippets",
 		"LESS",
 		"Package Control",
 		"SublimeLinter",
